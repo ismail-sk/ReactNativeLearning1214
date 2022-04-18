@@ -1,4 +1,13 @@
 # Sample Snack app
+## what is this app?
+this is a pomodoro timer mobile app for focusing things.
+Build by me with a course for learning React Native Mobile app Development.
+
+[Udemy link of course](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)
+
+example ScreenShots
+![Preview of how the page looks on different devices](Screenshot_1.png)
+![Preview of how the page looks on different devices](Screenshot_2.png)
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
